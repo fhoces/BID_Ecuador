@@ -1,0 +1,37 @@
+---
+title: "Evaluacion de Impacto Inversión en Calidad de los Servicios de Desarrollo Infantil"
+subtitle: "Agenda de Transparencia en Investigacion"
+author: " Fernando Hoces de la Guardia BITSS (Consultor BID)"
+date: "Quito, Octubre 2018"
+output:
+  beamer_presentation:
+    slide_level: 2
+    toc: yes
+  slidy_presentation: default
+  ioslides_presentation: default
+editor_options:
+  chunk_output_type: console
+---
+# Registro 
+
+## Detalles
+
+### Donde  
+
+### Cuando 
+
+### Contenido
+
+## Ejemplo  
+
+## Elementos  
+
+# Plan de Pre-Analisis
+
+## Detalles 
+
+### Donde 
+
+### Cuando  
+
+## Contenido
