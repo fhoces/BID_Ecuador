@@ -1,7 +1,7 @@
 ---
-title: "Evaluacion de Impacto Inversión en Calidad de los Servicios de Desarrollo Infantil"
+title: "Evaluación de Impacto del Mejoramiento del Programa Creciendo con Nuestros Hijos"
 subtitle: "Agenda de Transparencia en Investigacion"
-author: " Fernando Hoces de la Guardia BITSS (Consultor BID)"
+author: "| Fernando Hoces de la Guardia\n| BITSS & Consultor BID\n"
 date: "Quito, Octubre 2018"
 output:
   beamer_presentation:
@@ -14,24 +14,114 @@ editor_options:
 ---
 # Registro 
 
-## Detalles
+## Detalles  
 
-### Donde  
+### Descripcion  
+Un registro es una descripcion minima, ex-ante, del estudio a realizar. 
 
-### Cuando 
+### Dónde  
+Experimental ---> socialscienceregistry.org
+
+### Cúando 
+Idealmentente desde el momento en que se confirma el inicio de la evaluacion. 
 
 ### Contenido
+Titulo, pais, status, palabras clave, resumen/abstract, fechas de comienzo y fin, variables de resultado, intervencion, descripcion basica de la metodologia de evaluacion, agrupacion de tratamiento, Informacion de IRB. 
 
-## Ejemplo  
+## Ejemplo  1/3
+ - **Title**: Every Child Counts! An “at-scale” test of an early mathematics curriculum 
+ - **Authors:** Esther Duflo, Elizabeth Spelke    
+ - **Url:** https://www.socialscienceregistry.org/trials/3143    
+ - **Country:** Embargoed.   
+ - **Status:** In development (as of September 2018)    
+ - **Keyword:** Environment & Energy   
+ - **Project Start Date/End Date:** 2018-07-23 / 2020-12-31  
+ - **Keywords:** Education, Early Childhood Education  
+ - **Abstract:** “The performance of primary schools in developing countries…”  
+ - **Intervention Start Date/End Date:** 2018-09-01 / 2019-03-31  
+ 
+## Ejemplo  2/3
+
+ - **Primary Outcomes:** Can we harness children’s innate capacities at the foundations of mathematics to give preschool children the skills and confidence to succeed in school? Can we extend our curriculum to enhance children's math learning in primary school? Can we make our interventions “robust” enough to be implemented at scale in pre-schools and in the early grades of primary education?  
+ - **Experimental Design:** Designing and evaluating a modified curriculum, linking the non-symbolic games to the symbol systems of elementary school mathematics. A new RCT would test its effectiveness against both the government's standard preschool and Grade 1 curriculum. This curriculum will be delivered by teachers recruited by the Directorate of Education, Delhi. 
+ 
+## Ejemplo 3/3  
+ - **Randomization Method:** Randomization done through Stata Code  
+ - **Randomization Unit:** Cluster based on the district the school belongs to, number of sections at grade level, school working hours and school gender restrictions.  
+ - **Sample size/number of clusters:** A total of 143 schools will form a part of our study.  
+ - **Sample size/number of observations:** 3000 students  
+ - **Sample size/by treatment arms:** 70 schools will be randomly selected as treatment schools. The remaining schools will form the control group.  
+ - **IRB name/num id:** MIT/1805377780  
+ 
+
+
+
 
 ## Elementos  
+ - **Title**: 
+ - **Authors:** 
+ - **Url:** 
+ - **Country:** Ecuador
+ - **Status:** In development (as of October 2018)    
+ - **Keyword:** Early Childhood Development
+ - **Project Start Date/End Date:** 
+ - **Keywords:** Education, Health, Early Childhood Education  
+ - **Abstract:** “”  
+ - **Intervention Start Date/End Date:**  
+ - **Primary Outcomes:** 
+ - **Experimental Design:** 
+ - **Randomization Method:** 
+ - **Randomization Unit:** 
+ - **Sample size/number of clusters:**   
+ - **Sample size/number of observations:** 
+ - **Sample size/by treatment arms:**  
+ - **IRB name/num id:**   
+ 
+
+
+
 
 # Plan de Pre-Analisis
 
-## Detalles 
+## Detalles  
 
-### Donde 
+### Descripcion  
+Detallada descripcion de las preguntas, hypotesis y metodologia a utilizar. 
 
-### Cuando  
+### Dónde 
+Puede ser añadida como adjunto al mismo registro de socialscienceregistry.org
 
-## Contenido
+### Cúando  
+Antes de levantar/recibir los datos del endline. Idealmente el PAP debe ser ingresado antes de recibir datos de la linea base. Cambios con respecto al plan original son esperables, solo se requiere que sean documentadas (ver manual de [Don Green](http://alexandercoppock.com/Green-Lab-SOP/Green_Lab_SOP.html)).  
+
+## Contenido (Christiensen, Miguel Freese 2018) 1/3
+
+1 - **Study Design.** For RCTs: multiple or single treatment. Detail randomization process. For quasi-experimental: Declare covariates, estimation method (RDD, IV, D-D, PSM) with detailed specification. 
+
+2 - **Study Sample.** Define sample frame. Describe strategies to deal with non-response, attrition, non-compliance with treatment assignment and missing data. When performing secondary data analysis (pre-existing administrative or survey data), researcher should specify precise file and survey weights to be used. 
+
+3 - **Outcome Measures.** Define in detail the outcomes to be used in the analysis. Distinguish between primary and secondary importance to the main research questions. For each outcome a clear formula/code should demonstrate how the outputs will be constructed (i.e. exact inputs and transformations).  
+
+## Contenido (Christiensen, Miguel Freese 2018) 2/3
+
+4 - **Mean Effects Families.** When combining multiple outcomes into an index, the PAP should pre-specify all the elements behind the index (variables and weights). 
+
+5 - **Multiple Hypothesis Testing Adjustment.** Declare how to adjust the p-values of multiples tests. This can be done by adjusting the Family-Wise Error Rate (FWER) or choosing a specific False Discovery Rate (FDR).
+
+6 - **Subgroups.** Even a few baselines variables can be used to construct a very large number of subgroups. And each of these subgroups can be rationalize ex-post as a relevant group for the analysis. For this reason, declaring in your PAP the groups of interests greatly increase the quality of your analysis. While declaring subgroups it is also recommended to use multiple hypothesis testing adjustments. 
+
+7 - **Direction of Effect.** When declaring the direction of the effect in the PAP, there is a important gain in statistical power. The rationale for the direction has to from one of the mechanisms underlies the causal chain. 
+
+## Contenido (Christiensen, Miguel Freese 2018) 3/3  
+
+8 - **Exact Statistical Specification.** Define if regression models are linear or generalized linear; list control variables, and fixed effects (when appropriate). Specify how the standard errors will be computed (robust, clustered, etc). 
+
+9 - **Structural Model (optional).** If the study is estimating a specific parameter of a model derive from micro-foundations, then add this information to the PAP. This section should include: specific functional forms of utility functions/profit maximization functions, specific constraints and underlying rationale. 
+
+10 - **Timestamp.** The main objective of the PAP is to pre-specify analytical choice before the final data is available. Without a verifiable timestamp, the PAP loses most of its value.
+
+
+## Register Report at the JDE  
+
+
+See JDE [author guidelines](https://www.bitss.org/wp-content/uploads/2018/03/JDE_RR_Author_Guidelines.pdf) for register reports and their [checklist here](https://docs.google.com/spreadsheets/d/1zhG3AxOJIB7H1m4-S0jwMN1cQKNVsLomsxktEDVrbP8/edit#gid=1835444640). 
