@@ -1,8 +1,0 @@
-\babel@toc {english}{}
-\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
-\beamer@sectionintoc {2}{\IeC {\'E}tica en la Investigaci\IeC {\'o}n Cient\IeC {\'\i }fica}{6}{0}{2}
-\beamer@sectionintoc {3}{Sesgo de Publicaci\IeC {\'o}n --- Registros}{12}{0}{3}
-\beamer@sectionintoc {4}{P-Hacking --- Planes de Pre-An\IeC {\'a}lisis}{23}{0}{4}
-\beamer@sectionintoc {5}{Replicaciones Fallidas --- Pautas, Protocolos y Herramientas}{43}{0}{5}
-\beamer@sectionintoc {6}{Lecciones Para el An\IeC {\'a}lisis de Pol\IeC {\'\i }ticas P\IeC {\'u}blicas}{61}{0}{6}
-\beamer@sectionintoc {7}{Conclusi\IeC {\'o}n}{66}{0}{7}
